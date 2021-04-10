@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "octref.vetur",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}
